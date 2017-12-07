@@ -3,11 +3,13 @@
 ## インストール方法
 
 ```
+$ brew install yarn
 $ rbenv install 2.4.2
 $ rbenv global 2.4.2
 $ gem install middleman
 $ git clone git@github.com:zacky1972/middleman-parcel.git
 $ cd middleman-parcel
+$ yarn install
 ```
 
 ## ローカルプレビュー

@@ -1,0 +1,8 @@
+{
+  "name": "middleman-parcel",
+  "version": "1.0.0",
+  "description": "middleman-parcel",
+  "main": "index.js",
+  "repository": "git@github.com:zacky1972/middleman-parcel.git",
+  "author": "Susumu Yamazaki <zacky1972@gmail.com>"
+}
