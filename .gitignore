@@ -20,3 +20,8 @@
 # Ignore yarn log
 yarn-error.log
 
+# Ignore node_modules
+/node_modules
+
+# Ignore dist
+dist/

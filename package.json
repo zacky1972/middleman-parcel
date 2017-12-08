@@ -4,5 +4,8 @@
   "description": "middleman-parcel",
   "main": "index.js",
   "repository": "git@github.com:zacky1972/middleman-parcel.git",
-  "author": "Susumu Yamazaki <zacky1972@gmail.com>"
+  "author": "Susumu Yamazaki <zacky1972@gmail.com>",
+  "dependencies": {
+    "parcel-bundler": "^1.0.2"
+  }
 }

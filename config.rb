@@ -4,6 +4,15 @@ require 'slim'
 # Page options, layouts, aliases and proxies
 ###
 
+activate :relative_assets
+
+activate :external_pipeline, {
+	name: :parcel,
+	command: "parcel build source/javascripts/all.js --out-dir build/javascripts/",
+	source: './build',
+	latency: 1
+}
+
 # Per-page layout changes:
 #
 # With no layout

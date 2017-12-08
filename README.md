@@ -10,6 +10,7 @@ $ gem install middleman
 $ git clone git@github.com:zacky1972/middleman-parcel.git
 $ cd middleman-parcel
 $ yarn install
+$ yarn global add parcel-bundler
 ```
 
 ## ローカルプレビュー
